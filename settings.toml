@@ -1,0 +1,11 @@
+# This file is settings.toml
+
+# Your WiFi network credentials
+CIRCUITPY_WIFI_SSID = "[Enter Wifi Name]"
+CIRCUITPY_WIFI_PASSWORD = "[Enter Wifi Password]"
+
+# Your Adafruit IO credentials
+AIO_USERNAME = "[Enter Adafruit IO Username]"
+AIO_KEY = "[Enter Adafruit IO Unique Key]"
+
+CIRCUITPY_TZ = "America/Denver" #[Time Zone (optional) that I added so we can put the time logged in the CSV file, but sometimes it doesn't work...]
